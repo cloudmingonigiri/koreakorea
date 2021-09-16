@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "koreakorea", "koreakorea.vcxproj", "{9FDFE5C6-A0C8-4EB5-86DA-9D9D3D1BC476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FDFE5C6-A0C8-4EB5-86DA-9D9D3D1BC476}.Debug|x64.ActiveCfg = Debug|x64
+		{9FDFE5C6-A0C8-4EB5-86DA-9D9D3D1BC476}.Debug|x64.Build.0 = Debug|x64
+		{9FDFE5C6-A0C8-4EB5-86DA-9D9D3D1BC476}.Debug|x86.ActiveCfg = Debug|Win32
+		{9FDFE5C6-A0C8-4EB5-86DA-9D9D3D1BC476}.Debug|x86.Build.0 = Debug|Win32
+		{9FDFE5C6-A0C8-4EB5-86DA-9D9D3D1BC476}.Release|x64.ActiveCfg = Release|x64
+		{9FDFE5C6-A0C8-4EB5-86DA-9D9D3D1BC476}.Release|x64.Build.0 = Release|x64
+		{9FDFE5C6-A0C8-4EB5-86DA-9D9D3D1BC476}.Release|x86.ActiveCfg = Release|Win32
+		{9FDFE5C6-A0C8-4EB5-86DA-9D9D3D1BC476}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5D5F10B-519C-4FC0-8502-0AD383275A73}
+	EndGlobalSection
+EndGlobal
